@@ -22,3 +22,30 @@ Tutor persona: A student or professional tutor anywhere in Bangladesh offering t
 ## Problem Statement
 Guardians in Bangladesh can find tutors who are credentialed, but have no reliable way to know in advance whether a tutor's teaching style and personality will actually work for their specific child — leaving fit to chance, discovered only after hiring.
 
+## MVP Feature Priority
+
+### Must Have
+Guardian & Tutor signup/login
+Guardian: post a tuition requirement (subject, level, location, budget, schedule)
+Tutor: browse job board, filter by subject/level/location
+Tutor: apply to a post
+Guardian: view applicants, shortlist, confirm hire
+Basic tutor profile (name, subjects, qualifications, experience)
+
+### Should Have
+Guardian preference/fit field (your differentiator — free text: "looking for a patient, structured teacher" etc.)
+Guardian profile / requirement history
+Basic search (not just filters — keyword search)
+AI integration
+
+### Could Have
+Ratings/reviews after tuition ends
+Tutor availability calendar
+Simple in-app messaging
+
+### Out of Scope (v1)
+Payments/escrow
+Tutor document verification workflow
+Native mobile app
+Attendance tracking
+Structured fit-matching algorithm (start with the free-text field above; an actual algorithm is a strong v2 idea)
