@@ -1,8 +1,15 @@
 # FindMyTeacher
-It will match the right teachers for the right students.
-FindMyTeacher connects students and guardians with tutors who are qualified for Cambridge O/A Level students. The match will not only meet the requirements in a teacher but also it will match the vibe and understanding of both the teachers and the students.
 
-Right now, finding a reliable, qualified
-tutor for a specific subject and level, who matches the vibe and psycological requirements of the student is very difficult to find and has no mechanism for it, it is totally upon luck. The process is slow and relies on word-of-mouth or unverified listings.
+FindMyTeacher connects guardians and students with tutors qualified for
+Cambridge O/A Level subjects — matching not just on requirements like
+subject and availability, but on personality fit and teaching style.
 
-FindMyTeacher lets guardians post exactly what they need both materially and psycologically, it lets tutors apply directly, and gives guardians a simple way to compare and choose the right fit.
+Right now, finding a reliable, qualified tutor who is also a good
+personal fit for a student is mostly down to luck. The process is slow,
+relies on word-of-mouth, and has no real mechanism for matching beyond
+subject and price.
+
+FindMyTeacher lets guardians post exactly what they need — both the
+practical requirements and the personal preferences — lets tutors apply
+directly, and gives guardians a simple way to compare and choose the
+right fit.
