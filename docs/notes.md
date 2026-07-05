@@ -1,0 +1,1 @@
+Today I learned that the terminal lets me navigate folders and create files without touching my mouse.
