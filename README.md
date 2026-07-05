@@ -25,7 +25,7 @@ Guardians in Bangladesh can find tutors who are credentialed, but have no reliab
 ## MVP Feature Priority
 
 ### Must Have
--Guardian & Tutor signup/login
+- Guardian & Tutor signup/login
 -Guardian: post a tuition requirement (subject, level, location, budget, schedule)
 -Tutor: browse job board, filter by subject/level/location
 -Tutor: apply to a post
